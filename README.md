@@ -17,12 +17,6 @@ This project detects hand signs from live webcam input and interprets them into 
 
 ---
 
-## 📷 Demo
-
-[Optional: Add a video or GIF of the running app here]
-
----
-
 ## 📦 Requirements
 
 - Python 3.8+
