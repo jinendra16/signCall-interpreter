@@ -36,6 +36,6 @@ This project detects hand signs from live webcam input and interprets them into 
 ## 📥 Installation
 
 ```bash
-git clone https://github.com/yourusername/asl-sign-interpreter.git 
-cd asl-sign-interpreter
+git clone https://github.com/yourusername/signCall-interpreter.git 
+cd signCall-interpreter
 pip install -r requirements.txt
